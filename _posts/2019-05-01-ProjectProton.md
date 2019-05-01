@@ -14,3 +14,11 @@ tags:
 <video width="320" height="240" controls>
   <source src="/assets/videos/2018-07-26_19-58-14 (1).mp4" type="video/mp4">
   </video>{: .center-image }
+
+  <video width="320" height="240" controls>
+    <source src="/assets/videos/2018-10-30_16-38-52.mp4" type="video/mp4">
+    </video>{: .center-image }
+
+    <video width="320" height="240" controls>
+      <source src="/assets/videos/Cjfidler-17-07-2018-17-42-43.mp4" type="video/mp4">
+      </video>{: .center-image }
