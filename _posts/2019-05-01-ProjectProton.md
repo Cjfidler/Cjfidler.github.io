@@ -12,5 +12,5 @@ tags:
 
 
 <video width="320" height="240" controls>
-  <source src="/assets/videos/2017-07-03_18-53-22.mp4" type="video/mp4">
+  <source src="/assets/videos/2018-07-26_19-58-14 (1).mp4" type="video/mp4">
   </video>{: .center-image }
